@@ -98,7 +98,7 @@ $('#item_4').click(function () {
 	});
 
   $('#item_5').click(function () {
-      window.open("http://www.modtitan.com/");
+      window.open("https://www.modtitan.com/");
       return false;
   });
 
